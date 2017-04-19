@@ -1,0 +1,6 @@
+nimcache
+.cache
+
+# executables
+idc
+tester
